@@ -6,7 +6,7 @@ publisher:
   name: Exchangewire
   favicon: >-
     https://www.exchangewire.com/wp-content/themes/ew-network/ico/favicon.ico?v=2
-  domain: ppr.li
+  domain: www.exchangewire.com
 keywords:
   - header
   - s2s
@@ -27,10 +27,10 @@ description: >-
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
-  http://ppr.li/r?trail=&url=https%3A%2F%2Fwww.exchangewire.com%2Fblog%2F2016%2F07%2F06%2Fforget-header-bidding-its-time-for-server-to-server-2-0%2F&urlhash=1637bc56
+  https://www.exchangewire.com/blog/2016/07/06/forget-header-bidding-its-time-for-server-to-server-2-0/
 title: 'Forget Header Bidding, It''s Time for Server-to-Server 2.0 | ExchangeWire.com'
-datePublished: '2016-07-11T12:31:29.267Z'
-dateModified: '2016-07-11T12:30:53.188Z'
+datePublished: '2016-07-11T12:33:28.563Z'
+dateModified: '2016-07-11T12:31:23.044Z'
 starred: false
 sourcePath: _posts/2016-07-11-forget-header-bidding-its-time-for-server-to-server-20-or.md
 inFeed: true
