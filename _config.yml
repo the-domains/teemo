@@ -1,0 +1,14 @@
+layout_spectrum: 0.8817653853911906
+typography_spectrum: 0.36489536869339645
+color:
+  brandStrength: 0.09070743480697274
+  lightness: 0.3896991517394781
+  saturation: 0.2116366382688284
+  rhythmicContrast: 0.6905616566073149
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Teemo
