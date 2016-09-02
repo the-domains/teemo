@@ -1,4 +1,3 @@
-layout_spectrum: 0.8817653853911906
 typography_spectrum: 0.36489536869339645
 color:
   brandStrength: 0.09070743480697274
@@ -11,4 +10,6 @@ color:
     - '#BEDB39'
     - '#FFE11A'
     - '#FD7400'
+layout_spectrum: 0.8817653853911906
 name: Teemo
+description: Media & Advertising Technology
